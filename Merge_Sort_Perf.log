@@ -1,0 +1,149 @@
+Merge Sort Time Complexity for Data of Size: 100
+
+Start Time: 10:04:13:986924791
+Finished Time: 10:04:13:986994851
+Time Taken: PT0.00007006S
+
+Merge Sort Time Complexity for Data of Size: 1000
+
+Start Time: 10:05:23:136988300
+Finished Time: 10:05:23:137411417
+Time Taken: PT0.000423117S
+
+Merge Sort Time Complexity for Data of Size: 10000
+
+Start Time: 10:05:58:983654499
+Finished Time: 10:05:58:988640536
+Time Taken: PT0.004986037S
+
+Merge Sort Time Complexity for Data of Size: 100000
+
+Start Time: 10:06:05:525503923
+Finished Time: 10:06:05:583264701
+Time Taken: PT0.057760778S
+
+Merge Sort Time Complexity for Data of Size: 300000
+
+Start Time: 10:06:11:470593504
+Finished Time: 10:06:11:658504659
+Time Taken: PT0.187911155S
+
+Merge Sort Time Complexity for Data of Size: 500000
+
+Start Time: 10:06:17:556447487
+Finished Time: 10:06:17:880135676
+Time Taken: PT0.323688189S
+
+Merge Sort Time Complexity for Data of Size: 1000000
+
+Start Time: 10:06:27:000688864
+Finished Time: 10:06:27:674785793
+Time Taken: PT0.674096929S
+
+Merge Sort Time Complexity for Data of Size: 1500000
+
+Start Time: 10:06:33:789054653
+Finished Time: 10:06:34:862975234
+Time Taken: PT1.073920581S
+
+Merge Sort Time Complexity for Data of Size: 2000000
+
+Start Time: 10:06:41:181014034
+Finished Time: 10:06:42:638595318
+Time Taken: PT1.457581284S
+
+Merge Sort Time Complexity for Data of Size: 2500000
+
+Start Time: 10:06:45:715462629
+Finished Time: 10:06:47:585106108
+Time Taken: PT1.869643479S
+
+Merge Sort Time Complexity for Data of Size: 3000000
+
+Start Time: 10:06:54:262587498
+Finished Time: 10:06:56:512591726
+Time Taken: PT2.250004228S
+
+Merge Sort Time Complexity for Data of Size: 3500000
+
+Start Time: 10:06:59:806705053
+Finished Time: 10:07:02:458398443
+Time Taken: PT2.65169339S
+
+Merge Sort Time Complexity for Data of Size: 4000000
+
+Start Time: 10:07:06:091417990
+Finished Time: 10:07:09:102271765
+Time Taken: PT3.010853775S
+
+Merge Sort Time Complexity for Data of Size: 4500000
+
+Start Time: 10:07:11:785994262
+Finished Time: 10:07:15:297082427
+Time Taken: PT3.511088165S
+
+Merge Sort Time Complexity for Data of Size: 5000000
+
+Start Time: 10:07:19:475014243
+Finished Time: 10:07:23:361562828
+Time Taken: PT3.886548585S
+
+Merge Sort Time Complexity for Data of Size: 5500000
+
+Start Time: 10:07:26:054453376
+Finished Time: 10:07:30:366866472
+Time Taken: PT4.312413096S
+
+Merge Sort Time Complexity for Data of Size: 6000000
+
+Start Time: 10:07:54:309237479
+Finished Time: 10:07:59:080315441
+Time Taken: PT4.771077962S
+
+Merge Sort Time Complexity for Data of Size: 6500000
+
+Start Time: 10:08:02:294422377
+Finished Time: 10:08:07:363015295
+Time Taken: PT5.068592918S
+
+Merge Sort Time Complexity for Data of Size: 7000000
+
+Start Time: 10:08:09:960019261
+Finished Time: 10:08:15:436092166
+Time Taken: PT5.476072905S
+
+Merge Sort Time Complexity for Data of Size: 7500000
+
+Start Time: 10:08:18:284660593
+Finished Time: 10:08:24:269687538
+Time Taken: PT5.985026945S
+
+Merge Sort Time Complexity for Data of Size: 8000000
+
+Start Time: 10:08:26:931890786
+Finished Time: 10:08:33:213988997
+Time Taken: PT6.282098211S
+
+Merge Sort Time Complexity for Data of Size: 8500000
+
+Start Time: 10:08:37:229367082
+Finished Time: 10:08:43:890710752
+Time Taken: PT6.66134367S
+
+Merge Sort Time Complexity for Data of Size: 9000000
+
+Start Time: 10:08:47:889989438
+Finished Time: 10:08:55:151399634
+Time Taken: PT7.261410196S
+
+Merge Sort Time Complexity for Data of Size: 9500000
+
+Start Time: 10:08:59:733263303
+Finished Time: 10:09:07:244044082
+Time Taken: PT7.510780779S
+
+Merge Sort Time Complexity for Data of Size: 10000000
+
+Start Time: 10:09:11:574068650
+Finished Time: 10:09:19:650310174
+Time Taken: PT8.076241524S

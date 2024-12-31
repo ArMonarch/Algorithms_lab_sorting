@@ -1,0 +1,143 @@
+Quick Sort Time Complexity for Data of Size: 100
+Start Time: 15:33:02:686891627
+Finished Time: 15:33:02:686946674
+Time Taken: PT0.000055047S
+
+Quick Sort Time Complexity for Data of Size: 1000
+Start Time: 15:33:20:614060887
+Finished Time: 15:33:20:614333397
+Time Taken: PT0.00027251S
+
+Quick Sort Time Complexity for Data of Size: 10000
+Start Time: 15:33:27:262447357
+Finished Time: 15:33:27:265847917
+Time Taken: PT0.00340056S
+
+Quick Sort Time Complexity for Data of Size: 100000
+Start Time: 15:33:32:268831887
+Finished Time: 15:33:32:309997517
+Time Taken: PT0.04116563S
+
+Quick Sort Time Complexity for Data of Size: 300000
+Start Time: 15:33:37:753841746
+Finished Time: 15:33:37:882848539
+Time Taken: PT0.129006793S
+
+Quick Sort Time Complexity for Data of Size: 500000
+Start Time: 15:33:42:531944110
+Finished Time: 15:33:42:779715470
+Time Taken: PT0.24777136S
+
+Quick Sort Time Complexity for Data of Size: 1000000
+Start Time: 15:33:51:702161449
+Finished Time: 15:33:52:221842828
+Time Taken: PT0.519681379S
+
+Quick Sort Time Complexity for Data of Size: 1500000
+Start Time: 15:33:58:082181830
+Finished Time: 15:33:58:822458454
+Time Taken: PT0.740276624S
+
+Quick Sort Time Complexity for Data of Size: 2000000
+Start Time: 15:34:04:557969488
+Finished Time: 15:34:05:599389848
+Time Taken: PT1.04142036S
+
+Quick Sort Time Complexity for Data of Size: 2500000
+Start Time: 15:34:10:761120774
+Finished Time: 15:34:12:078719376
+Time Taken: PT1.317598602S
+
+Quick Sort Time Complexity for Data of Size: 3000000
+Start Time: 15:34:16:735332441
+Finished Time: 15:34:18:270425236
+Time Taken: PT1.535092795S
+
+Quick Sort Time Complexity for Data of Size: 3500000
+Start Time: 15:34:21:245701491
+Finished Time: 15:34:23:092972534
+Time Taken: PT1.847271043S
+
+Quick Sort Time Complexity for Data of Size: 4000000
+Start Time: 15:34:27:967472875
+Finished Time: 15:34:30:104092876
+Time Taken: PT2.136620001S
+
+Quick Sort Time Complexity for Data of Size: 4500000
+Start Time: 15:34:33:992414576
+Finished Time: 15:34:36:430223539
+Time Taken: PT2.437808963S
+
+Quick Sort Time Complexity for Data of Size: 5000000
+Start Time: 15:34:39:854632258
+Finished Time: 15:34:42:576828825
+Time Taken: PT2.722196567S
+
+Quick Sort Time Complexity for Data of Size: 5500000
+Start Time: 15:34:47:973996298
+Finished Time: 15:34:50:898170502
+Time Taken: PT2.924174204S
+
+Quick Sort Time Complexity for Data of Size: 6000000
+Start Time: 15:34:55:638630936
+Finished Time: 15:34:58:905062099
+Time Taken: PT3.266431163S
+
+Quick Sort Time Complexity for Data of Size: 6500000
+Start Time: 15:35:37:200328942
+Finished Time: 15:35:40:880708257
+Time Taken: PT3.680379315S
+
+Quick Sort Time Complexity for Data of Size: 7000000
+Start Time: 15:35:43:607717638
+Finished Time: 15:35:47:348122144
+Time Taken: PT3.740404506S
+
+Quick Sort Time Complexity for Data of Size: 7500000
+Start Time: 15:35:50:491944167
+Finished Time: 15:35:54:572424220
+Time Taken: PT4.080480053S
+
+Quick Sort Time Complexity for Data of Size: 8000000
+Start Time: 15:35:57:253933210
+Finished Time: 15:36:01:912486910
+Time Taken: PT4.6585537S
+
+Quick Sort Time Complexity for Data of Size: 8500000
+Start Time: 15:36:07:506036537
+Finished Time: 15:36:12:371905410
+Time Taken: PT4.865868873S
+
+Quick Sort Time Complexity for Data of Size: 9000000
+Start Time: 15:36:16:595573681
+Finished Time: 15:36:22:127202165
+Time Taken: PT5.531628484S
+
+Quick Sort Time Complexity for Data of Size: 9500000
+Start Time: 15:36:26:931523865
+Finished Time: 15:36:32:548076479
+Time Taken: PT5.616552614S
+
+Quick Sort Time Complexity for Data of Size: 10000000
+Start Time: 15:36:39:365596762
+Finished Time: 15:36:45:251243275
+Time Taken: PT5.885646513S
+
+Quick Sort Worst Case Time Complexity for Data of Size: 10000
+Start Time: 16:19:24:297144768
+Finished Time: 16:19:25:669664161
+Time Taken: PT1.372519393S
+
+Quick Sort Worst Case Time Complexity for Data of Size: 1000
+Start Time: 16:19:45:805557448
+Finished Time: 16:19:45:819828724
+Time Taken: PT0.014271276S
+
+Quick Sort Worst Case Time Complexity for Data of Size: 10000
+Start Time: 16:20:41:513740571
+Finished Time: 16:20:42:905271753
+Time Taken: PT1.391531182S
+
+Quick Sort Worst Case Time Complexity for Data of Size: 100000
+
+Quick Sort Worst Case Time Complexity for Data of Size: 100000

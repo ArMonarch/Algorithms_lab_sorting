@@ -1,0 +1,16 @@
+bin = [
+    { name = "Insertion_Sort", path = "src/insertion_sort.rs"},
+    { name = "Selection_Sort", path = "src/selection_sort.rs"},
+    { name = "Merge_Sort", path = "src/merge_sort.rs" },
+    { name = "Quick_sort", path = "src/quick_sort.rs" },
+]
+
+[package]
+name = "sorting_algorithm"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand ="0.8.5"
+time = "0.3.37"
+chrono = "0.4.39"
